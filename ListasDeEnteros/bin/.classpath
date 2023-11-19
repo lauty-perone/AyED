@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Proyectos/src/|ListasGenericas/src/|Practica1/|ListasDeEnteros/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="ListasDeEnteros/src"/>
+	<classpathentry kind="src" path="ListasGenericas/src"/>
+	<classpathentry kind="src" path="Practica1"/>
+	<classpathentry kind="src" path="Proyectos/src"/>
+	<classpathentry kind="output" path="ListasDeEnteros/bin"/>
+</classpath>
